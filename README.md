@@ -11,6 +11,7 @@ SpecLog is a batch script tool designed for gathering and logging various system
 - **Motherboard, CPU, RAM, and VRAM Checks**: Specific logs for motherboard type, CPU details, available RAM, and VRAM.
 - **System File Checker (SFC) Scan and Repair**: Includes options to scan for and repair PC problems using the SFC utility.
 - **Network Scanning**: Scans and logs available networks.
+- **Network TroubleShooter**: Attempts to Find and Target Isuues & Repairs Network. 
 
 ## Usage
 1. **Start SpecLog**: Run the `SpecLog.bat` file.
